@@ -1,0 +1,43 @@
+body {
+    background-color: #14bdac;
+}
+
+.container {
+    text-align: center;
+    padding-top: 50px;
+    font-size: large;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+table {
+    background-color: #037e71;
+    opacity: 0.85;
+    margin: 0 auto;
+    position: relative;
+    border-spacing: 6px;
+}
+
+td {
+    background-color: #14bdac;
+    height: 48px;
+    padding: 8px;
+    position: relative;
+    vertical-align: top;
+    width: 48px;
+}
+
+h3 {
+    margin: 15px auto;
+    border: #059c8d solid 2px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+button {
+    margin: 15px auto;
+    background-color: #059c8d;
+}

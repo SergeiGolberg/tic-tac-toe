@@ -6,12 +6,6 @@ body {
     box-sizing: border-box;
     text-align: center;
     padding-top: 50px;
-    font-size: large;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
 }
 
 table {
